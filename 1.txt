@@ -1,0 +1,767 @@
+[
+    {
+        "Processed: ": "sessions lied about communications with russians amp already reversed obama positions on voter id private prisons lgbtq righ\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:26 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 15952856, 
+                    "id_str": "15952856", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "Ari Berman", 
+                    "screen_name": "AriBerman"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Edmonton Alberta Canada", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @AriBerman: Sessions lied about communications with Russians &amp; already reversed Obama positions on voter ID, private prisons, LGBTQ righ\u2026", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "and why they felt so secure that flynn could gloat they planned to have one of their co-conspirators as top prosec\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:26 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        134, 
+                        134
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 33531486, 
+                    "id_str": "33531486", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Rev. Magdalen", 
+                    "screen_name": "revmagdalen"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Liberal Globalist", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @revmagdalen: And why they felt so secure that Flynn could gloat. They planned to have one of their co-conspirators as top prosec\u2026 ", 
+        "time_zone": "Arizona"
+    }, 
+    {
+        "Processed: ": "and why they felt so secure that flynn could gloat they planned to have one of their co-conspirators as top prosec\u2026", 
+        "Sentiment: ": "", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:26 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        134, 
+                        134
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 33531486, 
+                    "id_str": "33531486", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Rev. Magdalen", 
+                    "screen_name": "revmagdalen"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Liberal Globalist", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @revmagdalen: And why they felt so secure that Flynn could gloat. They planned to have one of their co-conspirators as top prosec\u2026 ", 
+        "time_zone": "Arizona"
+    }, 
+    {
+        "Processed: ": "coretta scott king 's ghost is not playing games with sessions \ud83d\udc86\ud83c\udfff", 
+        "Sentiment: ": "for i in json_data:1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 333279920, 
+                    "id_str": "333279920", 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "name": "Kakai.", 
+                    "screen_name": "MsKembiIfUNasty"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "United States", 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @MsKembiIfUNasty: Coretta Scott King's ghost is not playing games with Sessions \ud83d\udc86\ud83c\udfff", 
+        "time_zone": "Pacific Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "very troubled that attorney general jeff sessions had contact with russian official despite testifying otherwise https //t\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 171968009, 
+                    "id_str": "171968009", 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "name": "Sen. Al Franken", 
+                    "screen_name": "SenFranken"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "San Antonio", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @SenFranken: Very troubled that Attorney General Jeff Sessions had contact with Russian official despite testifying otherwise. https://t\u2026", 
+        "time_zone": "Central Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "ag sessions is not fit to serve as the top law enforcement officer of our country and must resign\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        117, 
+                        117
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 15764644, 
+                    "id_str": "15764644", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "Nancy Pelosi", 
+                    "screen_name": "NancyPelosi"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "Around My Uterus", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @NancyPelosi: AG Sessions is not fit to serve as the top law enforcement officer of our country and must resign.\u2026 ", 
+        "time_zone": "Eastern Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "twitter.com/flightpathbook\u2026", 
+                    "expanded_url": "https://twitter.com/flightpathbook/status/837224098719727616", 
+                    "indices": [
+                        11, 
+                        34
+                    ], 
+                    "url": "https://t.co/ekjqxFhqXh"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 970207298, 
+                    "id_str": "970207298", 
+                    "indices": [
+                        0, 
+                        10
+                    ], 
+                    "name": "Elizabeth Warren", 
+                    "screen_name": "SenWarren"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@SenWarren https://t.co/ekjqxFhqXh", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "this real news about sessions", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "twitter.com/mattpq91/statu\u2026", 
+                    "expanded_url": "https://twitter.com/mattpq91/status/837145202401804288", 
+                    "indices": [
+                        49, 
+                        72
+                    ], 
+                    "url": "https://t.co/2guCm5PWpu"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 765616871567568896, 
+                    "id_str": "765616871567568896", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "Michelle", 
+                    "screen_name": "mrntweet2"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Georgia, USA", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @mrntweet2: RT This Real News About Sessions. https://t.co/2guCm5PWpu", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "child why is it bad to have marijuana in every store me i\u2019ll explain after i pick up cigarettes and beer at saf\u2026", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        129, 
+                        129
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 144408677, 
+                    "id_str": "144408677", 
+                    "indices": [
+                        3, 
+                        10
+                    ], 
+                    "name": "Daniel Lin", 
+                    "screen_name": "DLin71"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "scranton; the electric city", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @DLin71: CHILD: Why is it bad to have marijuana in every store?\n\nME: I\u2019ll explain after I pick up cigarettes and beer at Saf\u2026 ", 
+        "time_zone": "Mountain Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "and we need attorney general jeff sessions \u2013 who should have never been confirmed in the first place \u2013 to resign we need it\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 970207298, 
+                    "id_str": "970207298", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "Elizabeth Warren", 
+                    "screen_name": "SenWarren"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "Apple Valley, CA", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @SenWarren: And we need Attorney General Jeff Sessions \u2013 who should have never been confirmed in the first place \u2013 to resign. We need it\u2026", 
+        "time_zone": "Pacific Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "unprecedented honesty and contrition from attorney general jefferson sessions tonight in his statement on his leake\u2026", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        131, 
+                        131
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 18359716, 
+                    "id_str": "18359716", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Ed Zitron", 
+                    "screen_name": "edzitron"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @edzitron: Unprecedented honesty and contrition from Attorney General Jefferson Sessions tonight in his statement on his leake\u2026 ", 
+        "time_zone": "London"
+    }, 
+    {
+        "Processed: ": "breaking attorney general sessions spoke twice with russian ambassador as senator during presidential campaign \u2026", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:27 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 51241574, 
+                    "id_str": "51241574", 
+                    "indices": [
+                        3, 
+                        6
+                    ], 
+                    "name": "The Associated Press", 
+                    "screen_name": "AP"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Michigan, USA", 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @AP: BREAKING: Attorney General Sessions spoke twice with Russian ambassador as senator during presidential campaign. https://t.co/5oMcO\u2026", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "and now it 's important that sessions be prosecuted but that 's rightwe no longer follow constitutional law\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        28, 
+                        37
+                    ], 
+                    "text": "Sessions"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/8\u2026", 
+                    "expanded_url": "https://twitter.com/i/web/status/837224574475517953", 
+                    "indices": [
+                        114, 
+                        137
+                    ], 
+                    "url": "https://t.co/EZbCn0YbdF"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "geo_enabled": false, 
+        "location": " ", 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "And now it's important that #Sessions be prosecuted. But, that's right...we no longer follow Constitutional law.\u2026 https://t.co/EZbCn0YbdF", 
+        "time_zone": "Central Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "democrats call for sessions to recuse himself from russia inquiry", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "ift.tt/2lfVy3E", 
+                    "expanded_url": "http://ift.tt/2lfVy3E", 
+                    "indices": [
+                        66, 
+                        89
+                    ], 
+                    "url": "https://t.co/j7Lj1wcO1q"
+                }
+            ], 
+            "user_mentions": []
+        }, 
+        "geo_enabled": true, 
+        "location": "Mumbai, Maharashtra", 
+        "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>", 
+        "text": "Democrats Call for Sessions to Recuse Himself From Russia Inquiry https://t.co/j7Lj1wcO1q", 
+        "time_zone": "Abu Dhabi"
+    }, 
+    {
+        "Processed: ": "bye bye jeff sessions coretta scott king had your number years ago sessions", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        86, 
+                        95
+                    ], 
+                    "text": "Sessions"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 15588500, 
+                    "id_str": "15588500", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Marilyn Levin", 
+                    "screen_name": "katsella"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "RT @katsella: Bye bye Jeff Sessions. Coretta Scott King had your number 40 years ago. #Sessions", 
+        "time_zone": "Eastern Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "you ca n't spell `` attorney general jefferson beauregard sessions the third '' without l-y-i-n-g u-n-d-e-r o-a-t-h", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 16017475, 
+                    "id_str": "16017475", 
+                    "indices": [
+                        3, 
+                        17
+                    ], 
+                    "name": "Nate Silver", 
+                    "screen_name": "NateSilver538"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": "Portland", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @NateSilver538: You can't spell \"Attorney General Jefferson Beauregard Sessions the third\" without L-Y-I-N-G  U-N-D-E-R  O-A-T-H", 
+        "time_zone": "Pacific Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "here 's the video of sessions denying **under oath** that he had communications with the russians", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "media": [
+                {
+                    "display_url": "pic.twitter.com/YFxCgqjQo6", 
+                    "expanded_url": "https://twitter.com/CAPAction/status/837128474540322816/video/1", 
+                    "id": 837127981873020928, 
+                    "id_str": "837127981873020928", 
+                    "indices": [
+                        113, 
+                        136
+                    ], 
+                    "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/837127981873020928/pu/img/Ly-joZR0BD2MRi8H.jpg", 
+                    "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/837127981873020928/pu/img/Ly-joZR0BD2MRi8H.jpg", 
+                    "sizes": {
+                        "large": {
+                            "h": 552, 
+                            "resize": "fit", 
+                            "w": 1004
+                        }, 
+                        "medium": {
+                            "h": 330, 
+                            "resize": "fit", 
+                            "w": 600
+                        }, 
+                        "small": {
+                            "h": 187, 
+                            "resize": "fit", 
+                            "w": 340
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "source_status_id": 837128474540322816, 
+                    "source_status_id_str": "837128474540322816", 
+                    "source_user_id": 15554922, 
+                    "source_user_id_str": "15554922", 
+                    "type": "photo", 
+                    "url": "https://t.co/YFxCgqjQo6"
+                }
+            ], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 15554922, 
+                    "id_str": "15554922", 
+                    "indices": [
+                        3, 
+                        13
+                    ], 
+                    "name": "CAP Action", 
+                    "screen_name": "CAPAction"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": "Auckland, New Zealand", 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "RT @CAPAction: Here's the video of Sessions denying **under oath** that he had communications with the Russians. https://t.co/YFxCgqjQo6", 
+        "time_zone": "Auckland"
+    }, 
+    {
+        "Processed: ": "drip drip drip wake up go put country over party history is watching we will never forget your next move\u2026", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        132, 
+                        132
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 824467746436120576, 
+                    "id_str": "824467746436120576", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "State of Resistance", 
+                    "screen_name": "AltStateDpt"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @AltStateDpt: Drip, drip, drip.\n\nWake up GOP. Put country over party. History is watching. We will never forget your next move.\u2026 ", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "drip drip drip wake up go put country over party history is watching we will never forget your next move\u2026", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "expanded_url": null, 
+                    "indices": [
+                        132, 
+                        132
+                    ], 
+                    "url": ""
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 824467746436120576, 
+                    "id_str": "824467746436120576", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "State of Resistance", 
+                    "screen_name": "AltStateDpt"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @AltStateDpt: Drip, drip, drip.\n\nWake up GOP. Put country over party. History is watching. We will never forget your next move.\u2026 ", 
+        "time_zone": null
+    }, 
+    {
+        "Processed: ": "if jeff sessions is the ag hours from now understand -- trump wh is fine with being lying lawless amp in bed with russi\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:28 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 635608354, 
+                    "id_str": "635608354", 
+                    "indices": [
+                        3, 
+                        15
+                    ], 
+                    "name": "John Schindler", 
+                    "screen_name": "20committee"
+                }
+            ]
+        }, 
+        "geo_enabled": true, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @20committee: If Jeff Sessions is the AG 24 hours from now, understand -- Trump WH is fine with being lying, lawless &amp; in bed with Russi\u2026", 
+        "time_zone": "Eastern Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "leahy asked about communications about the election franken asked about communications as a campaign surrogate sessions tol\u2026", 
+        "Sentiment: ": "1", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:29 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [], 
+            "user_mentions": [
+                {
+                    "id": 36529101, 
+                    "id_str": "36529101", 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "name": "Sean Davis", 
+                    "screen_name": "seanmdav"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "RT @seanmdav: Leahy asked about communications about the election. Franken asked about communications as a campaign surrogate. Sessions tol\u2026", 
+        "time_zone": "Eastern Time (US & Canada)"
+    }, 
+    {
+        "Processed: ": "i 've met with him many times no way to forget kislyak esp when russian hacking is page one news", 
+        "Sentiment: ": "0", 
+        "coordinates": null, 
+        "created_at": "Thu Mar 02 08:54:29 +0000 2017", 
+        "entities": {
+            "hashtags": [], 
+            "symbols": [], 
+            "urls": [
+                {
+                    "display_url": "twitter.com/nayyeroar/stat\u2026", 
+                    "expanded_url": "https://twitter.com/nayyeroar/status/837126396652765184", 
+                    "indices": [
+                        110, 
+                        133
+                    ], 
+                    "url": "https://t.co/bOoLWWrbTz"
+                }
+            ], 
+            "user_mentions": [
+                {
+                    "id": 454099919, 
+                    "id_str": "454099919", 
+                    "indices": [
+                        3, 
+                        10
+                    ], 
+                    "name": "Michael McFaul", 
+                    "screen_name": "McFaul"
+                }
+            ]
+        }, 
+        "geo_enabled": false, 
+        "location": null, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "RT @McFaul: I've met with him many times. No way to forget Kislyak, esp when Russian hacking is page one news https://t.co/bOoLWWrbTz", 
+        "time_zone": null
+    }
+]
