@@ -1,4 +1,4 @@
-This is a simple tool to see if one can find a coorealtion between the sentiment of a person and the time so that an appropriate addvertisement could be targeted to them at that time.
+This is a simple tool to see if one can find a corelation between the sentiment of a person and the time so that an appropriate addvertisement could be targeted to them at that time.
 Phase 1:
 This involves getting tweets from twitter api, removing noise and stroing them in some semi structured form. Then processing the tweets.
 
